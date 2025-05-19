@@ -1,0 +1,8 @@
+[project]
+name = "evolve"
+version = "0.1.0"
+description = "opensource implementation of alphaevolve"
+authors = [{ name = "ExpressGradient", email = "johndoeknown@protonmail.com" }]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["numpy>=2.2.5", "openai>=1.78.1"]
